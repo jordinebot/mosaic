@@ -1,0 +1,7 @@
+.mosaic {
+  display: grid;
+  grid-template-columns: repeat(var(--cols), 1fr);
+  grid-template-rows: repeat(var(--rows), 1fr);
+  width: 80%;
+  max-width: 600px;
+}

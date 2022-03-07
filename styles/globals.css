@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+main {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+}
